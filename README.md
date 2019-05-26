@@ -1,4 +1,4 @@
-# Project LLN 2019
+# Project LLN 2019 - Groupe H
 
 ## Structure
 
